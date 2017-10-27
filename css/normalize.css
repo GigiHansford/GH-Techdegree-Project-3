@@ -237,7 +237,8 @@ svg:not(:root) {
  * 2. Remove the margin in Firefox and Safari.
  */
 
-button,
+
+button, 
 input,
 optgroup,
 select,
@@ -247,6 +248,8 @@ textarea {
   line-height: 1.15; /* 1 */
   margin: 0; /* 2 */
 }
+
+
 
 /**
  * Show the overflow in IE.
